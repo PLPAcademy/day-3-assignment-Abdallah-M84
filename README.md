@@ -13,6 +13,8 @@ B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
+Answer:
+B) Download the Dart SDK
 
 2. Which command verifies the Dart installation on macOS?
 
@@ -21,6 +23,8 @@ B) dart --check
 C) dart --verify
 D) dart --version
 
+Answer:
+D) dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
@@ -29,6 +33,8 @@ B) Update your PATH
 C) Run Flutter Doctor
 D) Create a new Flutter project
 
+Answer:
+A) Install Homebrew
 
 4. What command is used to run a newly created Flutter app?
 
@@ -36,6 +42,8 @@ A) flutter start
 B) flutter build
 C) flutter run
 D) flutter init
+
+Answer:
 
 
 #Python Installation
